@@ -1,0 +1,288 @@
+[
+    {
+        "index": 1,
+        "route": [
+            13,
+            11,
+            9,
+            7,
+            8,
+            7,
+            9,
+            11,
+            13
+        ],
+        "speed": 1,
+        "initial_position": 11
+    },
+    {
+        "index": 2,
+        "route": [
+            4,
+            2,
+            1,
+            2,
+            4
+        ],
+        "speed": 17,
+        "initial_position": 2
+    },
+    {
+        "index": 3,
+        "route": [
+            14,
+            13,
+            14
+        ],
+        "speed": 13,
+        "initial_position": 14
+    },
+    {
+        "index": 4,
+        "route": [
+            5,
+            4,
+            16,
+            18,
+            19,
+            18,
+            16,
+            4,
+            5
+        ],
+        "speed": 6,
+        "initial_position": 4
+    },
+    {
+        "index": 5,
+        "route": [
+            12,
+            13,
+            11,
+            15,
+            11,
+            13,
+            12
+        ],
+        "speed": 12,
+        "initial_position": 15
+    },
+    {
+        "index": 6,
+        "route": [
+            10,
+            9,
+            7,
+            16,
+            18,
+            16,
+            7,
+            9,
+            10
+        ],
+        "speed": 3,
+        "initial_position": 10
+    },
+    {
+        "index": 7,
+        "route": [
+            21,
+            4,
+            16,
+            11,
+            16,
+            4,
+            21
+        ],
+        "speed": 2,
+        "initial_position": 4
+    },
+    {
+        "index": 8,
+        "route": [
+            21,
+            4,
+            16,
+            11,
+            13,
+            12,
+            13,
+            11,
+            16,
+            4,
+            21
+        ],
+        "speed": 6,
+        "initial_position": 16
+    },
+    {
+        "index": 9,
+        "route": [
+            2,
+            4,
+            16,
+            18,
+            19,
+            18,
+            16,
+            4,
+            2
+        ],
+        "speed": 9,
+        "initial_position": 19
+    },
+    {
+        "index": 10,
+        "route": [
+            8,
+            7,
+            9,
+            11,
+            15,
+            11,
+            9,
+            7,
+            8
+        ],
+        "speed": 13,
+        "initial_position": 11
+    },
+    {
+        "index": 11,
+        "route": [
+            12,
+            13,
+            11,
+            16,
+            4,
+            2,
+            4,
+            16,
+            11,
+            13,
+            12
+        ],
+        "speed": 9,
+        "initial_position": 11
+    },
+    {
+        "index": 12,
+        "route": [
+            9,
+            7,
+            16,
+            7,
+            9
+        ],
+        "speed": 14,
+        "initial_position": 16
+    },
+    {
+        "index": 13,
+        "route": [
+            7,
+            9,
+            11,
+            9,
+            7
+        ],
+        "speed": 8,
+        "initial_position": 11
+    },
+    {
+        "index": 14,
+        "route": [
+            8,
+            7,
+            8
+        ],
+        "speed": 7,
+        "initial_position": 7
+    },
+    {
+        "index": 15,
+        "route": [
+            5,
+            4,
+            2,
+            1,
+            2,
+            4,
+            5
+        ],
+        "speed": 20,
+        "initial_position": 2
+    },
+    {
+        "index": 16,
+        "route": [
+            17,
+            15,
+            18,
+            15,
+            17
+        ],
+        "speed": 11,
+        "initial_position": 15
+    },
+    {
+        "index": 17,
+        "route": [
+            4,
+            5,
+            7,
+            8,
+            7,
+            5,
+            4
+        ],
+        "speed": 3,
+        "initial_position": 5
+    },
+    {
+        "index": 18,
+        "route": [
+            21,
+            4,
+            16,
+            11,
+            13,
+            12,
+            13,
+            11,
+            16,
+            4,
+            21
+        ],
+        "speed": 17,
+        "initial_position": 21
+    },
+    {
+        "index": 19,
+        "route": [
+            7,
+            9,
+            11,
+            13,
+            14,
+            13,
+            11,
+            9,
+            7
+        ],
+        "speed": 3,
+        "initial_position": 11
+    },
+    {
+        "index": 20,
+        "route": [
+            21,
+            18,
+            15,
+            18,
+            21
+        ],
+        "speed": 16,
+        "initial_position": 18
+    }
+]

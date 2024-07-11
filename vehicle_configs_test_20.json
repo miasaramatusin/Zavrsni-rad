@@ -1,0 +1,304 @@
+[
+    {
+        "index": 1,
+        "route": [
+            13,
+            11,
+            9,
+            7,
+            9,
+            11,
+            13
+        ],
+        "speed": 20,
+        "initial_position": 13
+    },
+    {
+        "index": 2,
+        "route": [
+            7,
+            9,
+            7
+        ],
+        "speed": 2,
+        "initial_position": 7
+    },
+    {
+        "index": 3,
+        "route": [
+            17,
+            15,
+            11,
+            16,
+            4,
+            2,
+            3,
+            2,
+            4,
+            16,
+            11,
+            15,
+            17
+        ],
+        "speed": 3,
+        "initial_position": 2
+    },
+    {
+        "index": 4,
+        "route": [
+            10,
+            9,
+            11,
+            13,
+            11,
+            9,
+            10
+        ],
+        "speed": 11,
+        "initial_position": 9
+    },
+    {
+        "index": 5,
+        "route": [
+            10,
+            9,
+            7,
+            8,
+            7,
+            9,
+            10
+        ],
+        "speed": 18,
+        "initial_position": 10
+    },
+    {
+        "index": 6,
+        "route": [
+            5,
+            7,
+            9,
+            10,
+            9,
+            7,
+            5
+        ],
+        "speed": 5,
+        "initial_position": 5
+    },
+    {
+        "index": 7,
+        "route": [
+            1,
+            2,
+            4,
+            5,
+            7,
+            5,
+            4,
+            2,
+            1
+        ],
+        "speed": 16,
+        "initial_position": 5
+    },
+    {
+        "index": 8,
+        "route": [
+            16,
+            11,
+            13,
+            12,
+            13,
+            11,
+            16
+        ],
+        "speed": 7,
+        "initial_position": 12
+    },
+    {
+        "index": 9,
+        "route": [
+            13,
+            11,
+            16,
+            4,
+            2,
+            3,
+            2,
+            4,
+            16,
+            11,
+            13
+        ],
+        "speed": 2,
+        "initial_position": 11
+    },
+    {
+        "index": 10,
+        "route": [
+            14,
+            13,
+            11,
+            15,
+            18,
+            21,
+            20,
+            21,
+            18,
+            15,
+            11,
+            13,
+            14
+        ],
+        "speed": 10,
+        "initial_position": 14
+    },
+    {
+        "index": 11,
+        "route": [
+            12,
+            13,
+            11,
+            9,
+            7,
+            5,
+            7,
+            9,
+            11,
+            13,
+            12
+        ],
+        "speed": 17,
+        "initial_position": 9
+    },
+    {
+        "index": 12,
+        "route": [
+            6,
+            5,
+            4,
+            16,
+            11,
+            16,
+            4,
+            5,
+            6
+        ],
+        "speed": 8,
+        "initial_position": 16
+    },
+    {
+        "index": 13,
+        "route": [
+            20,
+            21,
+            4,
+            16,
+            4,
+            21,
+            20
+        ],
+        "speed": 6,
+        "initial_position": 4
+    },
+    {
+        "index": 14,
+        "route": [
+            20,
+            21,
+            18,
+            15,
+            17,
+            15,
+            18,
+            21,
+            20
+        ],
+        "speed": 16,
+        "initial_position": 20
+    },
+    {
+        "index": 15,
+        "route": [
+            16,
+            11,
+            15,
+            17,
+            15,
+            11,
+            16
+        ],
+        "speed": 14,
+        "initial_position": 17
+    },
+    {
+        "index": 16,
+        "route": [
+            1,
+            2,
+            4,
+            21,
+            4,
+            2,
+            1
+        ],
+        "speed": 15,
+        "initial_position": 2
+    },
+    {
+        "index": 17,
+        "route": [
+            10,
+            9,
+            11,
+            15,
+            17,
+            15,
+            11,
+            9,
+            10
+        ],
+        "speed": 9,
+        "initial_position": 10
+    },
+    {
+        "index": 18,
+        "route": [
+            19,
+            18,
+            21,
+            18,
+            19
+        ],
+        "speed": 2,
+        "initial_position": 21
+    },
+    {
+        "index": 19,
+        "route": [
+            16,
+            4,
+            2,
+            3,
+            2,
+            4,
+            16
+        ],
+        "speed": 12,
+        "initial_position": 16
+    },
+    {
+        "index": 20,
+        "route": [
+            16,
+            11,
+            13,
+            12,
+            13,
+            11,
+            16
+        ],
+        "speed": 8,
+        "initial_position": 13
+    }
+]
